@@ -1,6 +1,10 @@
 # Custom
 depression_*
 yearly_graphs/*
+*.md
+experiments
+!README.md
+analysis_cache/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
